@@ -1,5 +1,5 @@
 {
     "name": "BTCUSDT",
-    "price": 0,
-    "isopen": false
+    "price": 10,
+    "isopen": true
 }
